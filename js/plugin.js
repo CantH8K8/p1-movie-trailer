@@ -1,5 +1,4 @@
 // jQuery Plugin
-
 /*global jQuery */
 /*!
 * Lettering.JS 0.7.0
