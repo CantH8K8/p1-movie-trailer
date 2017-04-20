@@ -1,0 +1,78 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+
+
+/* Color Palette */
+
+.color-1 {
+    background: #c3add2;
+}
+
+.color-2 {
+    background: #9a83ce;
+}
+
+.color-3 {
+    background: #414177;
+}
+
+.color-4 {
+    background: #9ac8dd;
+}
+
+.color-5 {
+    background: #a8a8bc;
+}
+
+
+
+
+
+
+
+/* Textures or Patterns*/
+
+.pattern-1 {
+    background: url("../img/straws.png");
+}
+
+.pattern-2 {
+    background: url("../img/skelatal_weave.png");
+}
+
+.pattern-3 {
+    background: url("../img/noisy_grid.png");
+}
+
+
+
+
+
+/* Imagery */
+
+
+
+div.imagery-1 img {
+    
+    box-shadow:  10px 10px 10px #ccc;
+    border: none;
+    
+}
+
+
+
+
+
+
+/* Icons */
+
+
+
+/* Navigation */
+
+
+/* Typography */
+
+
