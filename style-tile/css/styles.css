@@ -1,13 +1,17 @@
 /***************/
 /* YOUR STYLES */
 /***************/
+<style>
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+</style>
+
 
 
 
 /* Color Palette */
 
 .color-1 {
-    background: #c3add2;
+    background: lavender;
 }
 
 .color-2 {
@@ -15,7 +19,7 @@
 }
 
 .color-3 {
-    background: #414177;
+    background: #2c2c69;
 }
 
 .color-4 {
@@ -23,7 +27,7 @@
 }
 
 .color-5 {
-    background: #a8a8bc;
+    background: #6e6e88;
 }
 
 
@@ -68,11 +72,53 @@ div.imagery-1 img {
 
 /* Icons */
 
+.grid-container {
+    border: none;
+}
+
+
+
 
 
 /* Navigation */
+
+a:link {
+    
+}
+
+a:visited {
+    
+}
+
+a:focus {
+    
+    background: slategray;
+    
+}
+
+a:hover {
+    
+}
+
+a:active {
+    
+}
+
+
+
+
+
+
 
 
 /* Typography */
 
 
+h1 {
+    color: #2c2c69;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+    color: #6e6e88;
+}
