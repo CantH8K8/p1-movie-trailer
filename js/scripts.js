@@ -2,5 +2,5 @@
 // Lettering
 $('h1').lettering();
 
-// Video Player
+// Video/media element  Player
 $('video').mediaelementplayer();
